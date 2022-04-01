@@ -1,6 +1,8 @@
 # Flashcard-o-matic App
-Flashcard-o-matic is an app that is intended to allow users to create a series of decks that contain flash cards for any subject that the intended user is planning to study.
-## ScreenShots
+## Project Description
+The purpose of this app is to allow users to create a series of decks that contain flash cards for any subject that the intended user is planning to study. Using what you know of React, JavaScript, HTML, and Bootstrap 4 design and create an app that allows an individual to create and manage decks of cards. 
+
+## ScreenShots/Page Details
 ### Home Screen
 ![HomeScreen](/screenshots/homescreen.jpg)
 The home screen allows for users to:
